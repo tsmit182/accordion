@@ -1,3 +1,3 @@
 // $('.accordHead').on('click', function () {
-// 	$(this).parent().removeClass('.hidden').siblings().addClass('.hidden')
+// 	$(this).child().removeClass('.hidden').siblings().addClass('.hidden')
 // }
