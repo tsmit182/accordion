@@ -43,6 +43,10 @@
   border: 1px solid #00A3B4;
 }
 
+.hidden{
+  display: none;
+}
+
 .accordHead {
   width: 100%;
   color: white;
@@ -50,6 +54,12 @@
   border: 1px solid #00A3B4;
   margin: 0 auto;
   text-align: center;
+  &:hover {
+    background-color: #57D9E4;
+  }
+  // &:click {
+
+  // }
 }
 
 .accordBody {
@@ -60,6 +70,5 @@
   margin: 0 auto;
   text-align: left;
   text-indent: 35px;
-  display: none;
 }
 
