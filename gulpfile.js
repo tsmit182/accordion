@@ -2,7 +2,7 @@
 // generated on 2014-06-20 using generator-tiy-webapp 0.0.0
 
 // Set your Github Repo Here
-var gh_repo = "";
+var gh_repo = "git@github.com:tsmit182/accordion.git";
 
 // Require your modules
 var gulp = require('gulp');
